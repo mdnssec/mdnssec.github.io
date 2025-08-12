@@ -3,9 +3,9 @@ layout: project_page
 permalink: /
 
 title: "Exposing Unintended Public mDNS Services at Scale: Measurement, Vulnerability Analysis, and Abuse Potential"
-paper: 
-code: 
-data: 
+paper: /
+code: /
+data: /
 ---
 
 <!-- Using HTML to center the abstract -->
