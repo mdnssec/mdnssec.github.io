@@ -96,8 +96,8 @@ Repository & resources: [https://mdnssec.github.io](https://mdnssec.github.io)
 
 ## Resources
 
-- **Paper PDF** – *(add link when available)*
+- **Paper PDF** – *update soon within one week*
 - **Dataset & Tools** – [https://mdnssec.github.io](https://mdnssec.github.io)
-- **Contact** – *(your email / GitHub)*
+- **Contact** – *update soon*
 
 ---
