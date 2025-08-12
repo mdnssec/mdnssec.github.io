@@ -3,9 +3,9 @@ layout: project_page
 permalink: /
 
 title: Exposing Unintended Public mDNS Services at Scale
-paper: https://www.overleaf.com/project/676a36398aa1a25c1eb452c9
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+paper: 
+code: 
+data: 
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -101,15 +101,3 @@ Repository & resources: [https://mdnssec.github.io](https://mdnssec.github.io)
 - **Contact** – *(your email / GitHub)*
 
 ---
-## Citation
-```
-@article{turing1936computable,
-  title={Exposing Unintended Public mDNS Services at Scale},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
-}
-```
