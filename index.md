@@ -13,7 +13,7 @@ data: /
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-With the growing ubiquity of smart and portable devices in local networks (LANs), DNS Service Discovery (DNS-SD) over multicast DNS (mDNS) has become essential for zero- configuration connectivity.  
+With the growing ubiquity of smart and portable devices in local networks (LANs), DNS Service Discovery (DNS-SD) over multicast DNS (mDNS) has become essential for zero-configuration connectivity.  
 While prior studies have focused on local security risks, the exposure of mDNS services to the broader Internet remains largely unexplored.  In this paper, we present the first large-scale security analysis of Internet-exposed mDNS services.  Our measurements uncover <b>millions of open mDNS services</b> across <b>187 countries</b> that are externally accessible due to misconfigurations and a lack of access control.  A fine-grained investigation reveals that these services span <b>six major categories of internal devices</b>, posing serious risks including remote exploitation and privacy leakage.  Critically, we identify protocol-level vulnerabilities that allow these services to be abused for <b>high-volume reflection-based DDoS attacks</b>, reaching terabit-scale amplification.  To address these threats, we propose and validate a set of <b>practical defenses-optimized configurations</b>, <b>zero-trust access control</b> and a <b>token-based authentication mechanism</b> for mDNS—demonstrating their effectiveness through real-world Internet experiments.
         </div>
     </div>
