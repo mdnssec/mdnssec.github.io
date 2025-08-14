@@ -1,0 +1,7 @@
+pandas
+playwright
+asyncio
+easyocr
+geotext
+nltk
+openai
