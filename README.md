@@ -36,13 +36,13 @@ The toolkit is organized into four independent but complementary modules:
 │   ├── output/
 │   └── README.md
 
-snapshot_collector/
+snapshot_collector/        # Web screenshot collection from service URLs
 │
-├── browser_automation.py   # Script for taking web snapshots
-├── privacy_analyze.py      # Script for OCR and privacy analysis
-├── requirements.txt        # Python dependencies
-├── output/                 # Directory for all output files
-└── README.md               # This file
+├── browser_automation.py   
+├── privacy_analyze.py      
+├── requirements.txt        
+├── output/                 
+└── README.md               
 ```
 
 ---
