@@ -44,7 +44,7 @@ Clone the repository and install the required Python packages:
 pip install -r requirements.txt
 ```
 
-### 3. 配置文件
+### 3. Configuration
 
 1. **IP List**: Create an `ip_list.csv` file in the `snapshot_collector` directory.  Each row should contain one IP address.
 
@@ -64,3 +64,4 @@ After the scripts complete, you can find the results in the `output/` directory:
 - `ocr_results.csv`: Raw text extracted from each screenshot.
 - `privacy_analysis_rule_based.csv`: Structured results from the rule-based scanner.
 - `privacy_analysis_llm.csv`: Structured boolean results from the LLM scanner.
+
