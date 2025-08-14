@@ -29,7 +29,7 @@ While prior studies have focused on local security risks, the exposure of mDNS s
 - **mDNS Attack Simulator** – Controlled testbed for measuring reflection amplification traffic patterns.
 - **Token-based mDNS Auth** – Modified Avahi implementation with authentication & rate-limiting defenses.
 
-Repository & resources: [https://mdnssec.github.io](https://mdnssec.github.io)
+Repository & resources: [https://github.com/mdnssec/mdnssec.github.io](https://github.com/mdnssec/mdnssec.github.io)
 
 ---
 
