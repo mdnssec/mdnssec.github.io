@@ -85,7 +85,7 @@ Repository & resources: [https://github.com/mdnssec/mdnssec.github.io](https://g
 1. **Configuration Hardening** – Bind mDNS to local interfaces only.
 2. **Firewall ACLs** – Restrict UDP 5353 to trusted sources.
 3. **Zero-trust Access Control** – Only authenticated clients allowed.
-4. **Token-based Authentication** –  
+4. **Token-based Authentication** –  *update soon*
    - AC token: `SHA256(sip, sport, Pkey, Rkey)`  
    - Added in TXT records; backward compatible.
 5. **Rate-limiting** – Enforce RFC 6762 recommendations.
@@ -94,7 +94,6 @@ Repository & resources: [https://github.com/mdnssec/mdnssec.github.io](https://g
 
 ## Resources
 
-- **Paper PDF** – *update soon within one week*
 - **Dataset & Tools** – [https://mdnssec.github.io](https://mdnssec.github.io)
 - **Contact** – *update soon*
 
